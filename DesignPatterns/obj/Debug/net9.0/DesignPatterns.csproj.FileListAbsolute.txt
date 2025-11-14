@@ -1,0 +1,14 @@
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\bin\Debug\net9.0\DesignPatterns.exe
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\bin\Debug\net9.0\DesignPatterns.deps.json
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\bin\Debug\net9.0\DesignPatterns.runtimeconfig.json
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\bin\Debug\net9.0\DesignPatterns.dll
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\bin\Debug\net9.0\DesignPatterns.pdb
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.AssemblyInfoInputs.cache
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.AssemblyInfo.cs
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.csproj.CoreCompileInputs.cache
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.dll
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\refint\DesignPatterns.dll
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.pdb
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.genruntimeconfig.cache
+c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\ref\DesignPatterns.dll
