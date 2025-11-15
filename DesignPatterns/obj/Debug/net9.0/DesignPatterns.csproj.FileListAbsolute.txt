@@ -12,3 +12,4 @@ c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\
 c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.pdb
 c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.genruntimeconfig.cache
 c:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\ref\DesignPatterns.dll
+C:\Users\Selim\OneDrive - Gebze Teknik Üniversitesi\Masaüstü\design-patterns\DesignPatterns\obj\Debug\net9.0\DesignPatterns.sourcelink.json
